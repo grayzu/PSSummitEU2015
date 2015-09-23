@@ -39,4 +39,4 @@ The contents for each session are stored in an individual folder ... for the mos
 | PullServer\V1 | * | Sample configurations and scripts demonstarting target node configuration and resulting mofs for pull server version 1. |
 
 ##Also see
-[DSC Pull Server UI](https://github.com/grayzu/DSC-Pull-Server-UI) repo for the sample application source code.
+[DSC Pull Server UI](https://github.com/grayzu/DSCPullServerUI) repo for the sample application source code.
