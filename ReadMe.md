@@ -26,7 +26,7 @@ The contents for each session are stored in an individual folder ... for the mos
 | DevOps\Website | * | Sample website content and resources used for testing. |
 | DevOps\Website\Tests | WebsiteConfig.Tests.ps1 | Sample unit tests for website configuration. |
 | PullServer | 01 - PullServer Config.ps1 | Sample configuration used to deploy V2 pull server. |  
-| PullServer | 01 - PullServer Config.ps1 | Sample configuraiton used to deploy V2 pull server and sample PullServer WebApp. | 
+| PullServer | 02 - PullServer Config.ps1 | Sample configuraiton used to deploy V2 pull server and sample PullServer WebApp. | 
 | PullServer | *.xml | CliXML files used to pass credentials into scripts. Replace these with your own CliXML files in order to run sample scripts successfully. |
 | PullServer | Assert-PullServer.ps1 | Script use to deploy dsc configuration which configures the V2 Pull Server. |
 | PullServer | Assert-TargetNode.ps1 | Script used to deploy meta-configuration to target node which tells it to get its configuration from the v2 pull server. |
